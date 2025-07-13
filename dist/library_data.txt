@@ -1,0 +1,800 @@
+1|Introduction to Electrical Engineering|V.K. Mehta|0|||
+2|Thermodynamics: An Engineering Approach|Yunus A. Çengel|0|||
+3|Engineering Mechanics: Statics|J.L. Meriam|0|||
+4|Fluid Mechanics|Frank M. White|0|||
+5|Strength of Materials|R.K. Bansal|0|||
+6|Basic Civil Engineering|S.S. Bhavikatti|0|||
+7|Signals and Systems|Alan V. Oppenheim|0|||
+8|Microelectronic Circuits|Sedra & Smith|0|||
+9|Control Systems Engineering|Norman S. Nise|0|||
+10|Digital Logic and Computer Design|M. Morris Mano|0|||
+11|Network Analysis|Van Valkenburg|0|||
+12|Data Structures and Algorithms|Alfred V. Aho|0|||
+13|Operating System Concepts|Abraham Silberschatz|0|||
+14|Database System Concepts|Henry F. Korth|0|||
+15|Machine Learning|Tom M. Mitchell|0|||
+16|Artificial Intelligence: A Modern Approach|Stuart Russell|0|||
+17|Design of Machine Elements|V.B. Bhandari|0|||
+18|Applied Thermodynamics|Eastop & McConkey|0|||
+19|Internal Combustion Engines|V. Ganesan|0|||
+20|Power Plant Engineering|P.K. Nag|0|||
+21|Heat and Mass Transfer|R.K. Rajput|0|||
+22|Advanced Engineering Mathematics|Erwin Kreyszig|0|||
+23|Engineering Drawing|N.D. Bhatt|0|||
+24|Material Science and Engineering|William D. Callister|0|||
+25|Environmental Engineering|Howard S. Peavy|0|||
+26|Civil Engineering Materials|Shan Somayaji|0|||
+27|Transportation Engineering|C.S. Papacostas|0|||
+28|Geotechnical Engineering|Donald P. Coduto|0|||
+29|Structural Analysis|R.C. Hibbeler|0|||
+30|Surveying Vol 1|B.C. Punmia|0|||
+31|Construction Planning and Management|P.S. Gahlot|0|||
+32|Concrete Technology|M.S. Shetty|0|||
+33|Engineering Chemistry|Jain & Jain|0|||
+34|Engineering Physics|H.K. Malik|0|||
+35|Electromagnetic Field Theory|Bakshi & Bakshi|0|||
+36|VLSI Design|Douglas A. Pucknell|0|||
+37|Embedded Systems|Raj Kamal|0|||
+38|Wireless Communications|Theodore S. Rappaport|0|||
+39|Digital Signal Processing|John G. Proakis|0|||
+40|Antennas and Wave Propagation|K.D. Prasad|0|||
+41|Mobile Computing|Asoke Talukder|0|||
+42|Computer Networks|Andrew S. Tanenbaum|0|||
+43|Cryptography and Network Security|William Stallings|0|||
+44|Software Engineering|Ian Sommerville|0|||
+45|Object-Oriented Programming with C++|E. Balagurusamy|0|||
+46|Python for Data Analysis|Wes McKinney|0|||
+47|Java: The Complete Reference|Herbert Schildt|0|||
+48|C Programming Language|Brian W. Kernighan|0|||
+49|Matlab for Engineers|Holly Moore|0|||
+50|Numerical Methods for Engineers|Steven C. Chapra|0|||
+51|Industrial Engineering and Management|O.P. Khanna|0|||
+52|Operations Research|Hamdy A. Taha|0|||
+53|Production and Operations Management|S.N. Chary|0|||
+54|Lean Manufacturing|Balle & Balle|0|||
+55|CAD/CAM Principles and Applications|P.N. Rao|0|||
+56|Mechatronics|W. Bolton|0|||
+57|Robotics and Control|R.K. Mittal|0|||
+58|Instrumentation and Control Systems|William Bolton|0|||
+59|Electric Machines|D.P. Kothari|0|||
+60|Power Electronics|Muhammad H. Rashid|0|||
+61|Electrical Power Systems|C.L. Wadhwa|0|||
+62|High Voltage Engineering|M.S. Naidu|0|||
+63|Switchgear and Protection|Sunil S. Rao|0|||
+64|Electrical Measurements|A.K. Sawhney|0|||
+65|Renewable Energy Sources|Twidell & Weir|0|||
+66|Smart Grid Technology|James Momoh|0|||
+67|Hydraulic Machines|R.K. Bansal|0|||
+68|Refrigeration and Air Conditioning|C.P. Arora|0|||
+69|Automation and Control Engineering|Dobrivoje Popovic|0|||
+70|Principles of Communication Systems|Taub & Schilling|0|||
+71|Electronic Devices and Circuits|David A. Bell|0|||
+72|Electronic Instrumentation|H.S. Kalsi|0|||
+73|Process Control|B.G. Lipták|0|||
+74|Basic Electronics|Bernard Grob|0|||
+75|Analog Electronics|Sedra & Smith|0|||
+76|Electric Circuits|James W. Nilsson|0|||
+77|Electronics for Engineers|Paul Horowitz|0|||
+78|Digital Communication|John G. Proakis|0|||
+79|Satellite Communications|Dennis Roddy|0|||
+80|Microwave Engineering|David M. Pozar|0|||
+81|Engineering Electromagnetics|William Hayt|0|||
+82|Radar Systems|Merrill Skolnik|0|||
+83|Biomedical Instrumentation|Cromwell|0|||
+84|Neural Networks|Simon Haykin|0|||
+85|Fuzzy Logic with Engineering Applications|Timothy J. Ross|0|||
+86|Image Processing|Rafael C. Gonzalez|0|||
+87|Computer Organization and Design|David A. Patterson|0|||
+88|Compiler Design|Alfred V. Aho|0|||
+89|Cloud Computing|Rajkumar Buyya|0|||
+90|Internet of Things|Arshdeep Bahga|0|||
+91|Big Data Analytics|Seema Acharya|0|||
+92|Blockchain Technology|Melanie Swan|0|||
+93|Computer Graphics|Donald Hearn|0|||
+94|Human-Computer Interaction|Alan Dix|0|||
+95|Cybersecurity for Engineers|Joseph Migga Kizza|0|||
+96|Software Testing Principles|Cem Kaner|0|||
+97|Agile Software Development|Robert C. Martin|0|||
+98|Discrete Mathematics|Kenneth Rosen|1|2203056|2025-07-12|2025-08-11
+99|Probability and Statistics for Engineers|Miller & Freund|0|||
+100|Engineering Mathematics Vol 1|B.S. Grewal|0|||
+101|Engineering Mathematics Vol 2|B.S. Grewal|0|||
+102|Vector Calculus|Jerrold E. Marsden|0|||
+103|Calculus Early Transcendentals|James Stewart|0|||
+104|Linear Algebra and Its Applications|David C. Lay|0|||
+105|Complex Variables and Applications|James Brown|0|||
+106|Fourier Series and Boundary Value Problems|Churchill|0|||
+107|Mathematical Methods for Engineers|Kreyszig|0|||
+108|Advanced Calculus|Patrick M. Fitzpatrick|0|||
+109|Mechanics of Materials|Beer & Johnston|0|||
+110|Structural Steel Design|Jack C. McCormac|0|||
+111|Concrete Structures|Nilson|0|||
+112|Bridge Engineering|S.P. Bindra|0|||
+113|Earthquake Resistant Design|Pankaj Agarwal|0|||
+114|Seismic Design of Buildings|Jack Moehle|0|||
+115|Soil Mechanics|T. William Lambe|0|||
+116|Foundation Engineering|Braja M. Das|0|||
+117|Construction Materials|Mamlouk|0|||
+118|Highway Engineering|Paul H. Wright|0|||
+119|Urban Transportation Planning|Michael D. Meyer|0|||
+120|Airport Engineering|Khanna Arora Jain|0|||
+121|Traffic Engineering|Roger P. Roess|0|||
+122|Geographic Information Systems|Kang-Tsung Chang|0|||
+123|Remote Sensing and GIS|Basudeb Bhatta|0|||
+124|Environmental Impact Assessment|Larry W. Canter|0|||
+125|Water Supply Engineering|B.C. Punmia|0|||
+126|Wastewater Engineering|Metcalf & Eddy|0|||
+127|Air Pollution Control Engineering|Noel de Nevers|0|||
+128|Solid Waste Management|George Tchobanoglous|0|||
+129|Environmental Science|Daniel D. Chiras|0|||
+130|Sustainable Engineering|David T. Allen|0|||
+131|Green Building Fundamentals|Mike Montoya|0|||
+132|Energy Engineering and Technology|S. Rao|0|||
+133|Solar Energy|S.P. Sukhatme|0|||
+134|Wind Energy Explained|James F. Manwell|0|||
+135|Energy Management Handbook|Wayne C. Turner|0|||
+136|HVAC Systems Design|Haines & Wilson|0|||
+137|Thermal Engineering|R.K. Rajput|0|||
+138|I.C. Engines|Mathur & Sharma|0|||
+139|Boiler Operation Engineering|P. Chattopadhyay|0|||
+140|Engineering Metrology|R.K. Jain|0|||
+141|Mechanical Vibrations|S.S. Rao|0|||
+142|Theory of Machines|R.S. Khurmi|0|||
+143|Dynamics of Machinery|J.B. Kuo|0|||
+144|Kinematics and Dynamics|Charles E. Wilson|0|||
+145|Production Engineering|P.C. Sharma|0|||
+146|Tool Engineering and Design|G.R. Nagpal|0|||
+147|Machine Design|Shigley|0|||
+148|Welding Technology|O.P. Khanna|0|||
+149|Casting and Forming Processes|P.N. Rao|0|||
+150|Manufacturing Science|Amitabha Ghosh|0|||
+151|Unconventional Manufacturing Processes|V.K. Jain|0|||
+152|Additive Manufacturing Technologies|Gibson|0|||
+153|CNC Machines|Radhakrishnan|0|||
+154|Industrial Automation|David W. Pessen|0|||
+155|Instrumentation Engineering|R. K. Rajput|0|||
+156|PLC Programming|Frank Petruzella|0|||
+157|SCADA Systems|Stuart A. Boyer|0|||
+158|Control Engineering|Ogata|0|||
+159|Process Instrumentation|B.G. Liptak|0|||
+160|Bioinstrumentation|John G. Webster|0|||
+161|Biomedical Engineering|Joseph Bronzino|0|||
+162|Biomaterials|Buddy D. Ratner|0|||
+163|Medical Imaging|Z.H. Cho|0|||
+164|Telemedicine Technologies|Hazarika|0|||
+165|Engineering Ethics|Charles E. Harris|0|||
+166|Project Management for Engineers|Harold Kerzner|0|||
+167|Professional Practice in Engineering|Griffith|0|||
+168|Engineering Economy|Leland Blank|0|||
+169|Total Quality Management|Dale H. Besterfield|0|||
+170|Quality Control and Assurance|K. Shridhara Bhat|0|||
+171|Six Sigma for Engineers|Peter S. Pande|0|||
+172|Statistical Quality Control|Grant & Leavenworth|0|||
+173|Reliability Engineering|Elsayed A. Elsayed|0|||
+174|Maintenance Engineering|Higgins & Mobley|0|||
+175|Risk Analysis in Engineering|Lee T. Ostrom|0|||
+176|Safety Engineering|David L. Goetsch|0|||
+177|Engineering Law and Contracts|H.G. Kerzner|0|||
+178|Patent Law for Engineers|Vivien Irish|0|||
+179|Intellectual Property Rights|Deborah Halbert|0|||
+180|Entrepreneurship Development|S.S. Khanka|0|||
+181|Innovation and Engineering Design|Clive L. Dym|0|||
+182|Product Design and Development|Ulrich & Eppinger|0|||
+183|Design Thinking for Engineers|Gerard G. Gaynor|0|||
+184|Human Factors in Engineering|Mark S. Sanders|0|||
+185|Ergonomics for Engineers|Robert Bridger|0|||
+186|Engineering Design Process|Yousef Haik|0|||
+187|Finite Element Method|J.N. Reddy|0|||
+188|Computational Fluid Dynamics|John D. Anderson|0|||
+189|Multiphysics Modeling|Roger W. Pryor|0|||
+190|Simulation Modeling and Analysis|Averill Law|0|||
+191|System Dynamics|Karnopp|0|||
+192|Engineering Statistics|Montgomery & Runger|0|||
+193|Graph Theory and Its Applications|Gross & Yellen|0|||
+194|Artificial Neural Networks|B.Yegnanarayana|0|||
+195|Digital Image Processing|Gonzalez & Woods|0|||
+196|Pattern Recognition|Sergios Theodoridis|0|||
+197|Computational Intelligence|Andries P. Engelbrecht|0|||
+198|Soft Computing Techniques|S.N. Sivanandam|0|||
+199|Natural Language Processing|Daniel Jurafsky|0|||
+200|Speech and Language Processing|James H. Martin|0|||
+201|Digital Signal Processing|John G. Proakis|0|||
+202|Signals and Systems|Alan V. Oppenheim|0|||
+203|Microprocessors and Microcontrollers|R.S. Gaonkar|0|||
+204|Embedded Systems|Raj Kamal|0|||
+205|Real-Time Systems|Jane W. S. Liu|0|||
+206|Digital Electronics|Morris Mano|0|||
+207|VLSI Design|Kang & Leblebici|0|||
+208|CMOS Digital Integrated Circuits|Jacob Baker|0|||
+209|Analog Electronics|Sedra & Smith|0|||
+210|Operational Amplifiers and Linear ICs|Ramakant Gayakwad|0|||
+211|Communication Systems|Simon Haykin|0|||
+212|Wireless Communications|Theodore Rappaport|0|||
+213|Mobile Communication|Jochen Schiller|0|||
+214|Microwave Engineering|David M. Pozar|0|||
+215|Antenna Theory|Balanis|0|||
+216|Satellite Communication|Dennis Roddy|0|||
+217|Optical Fiber Communication|Gerd Keiser|0|||
+218|Photonics|Saleh & Teich|0|||
+219|Electromagnetic Field Theory|Sadiku|0|||
+220|Network Analysis|Van Valkenburg|0|||
+221|Basic Electrical Engineering|D.P. Kothari|0|||
+222|Electric Machines|D.P. Kothari & I.J. Nagrath|0|||
+223|Power Systems Engineering|Nagrath & Kothari|0|||
+224|Switchgear and Protection|Sunil S. Rao|0|||
+225|High Voltage Engineering|M.S. Naidu|0|||
+226|Control Systems Engineering|Norman S. Nise|0|||
+227|Modern Control Engineering|Katsuhiko Ogata|0|||
+228|Power Electronics|P.S. Bimbhra|0|||
+229|Electric Drives|G.K. Dubey|0|||
+230|Electrical Machines, Drives & Power Systems|Theodore Wildi|0|||
+231|Instrumentation and Measurement|A.K. Sawhney|0|||
+232|Electrical Measurements and Measuring Instruments|E.W. Golding|0|||
+233|Electrical Circuit Analysis|Mahadevan|0|||
+234|Smart Grid|Gil Masters|0|||
+235|Renewable Energy Systems|Godfrey Boyle|0|||
+236|Energy Systems Engineering|Vanek & Albright|0|||
+237|Power Plant Engineering|P.K. Nag|0|||
+238|Thermal Power Plants|G.D. Rai|0|||
+239|Hydropower Engineering|Dandekar & Sharma|0|||
+240|Nuclear Reactor Engineering|Samuel Glasstone|0|||
+241|Energy Conversion Systems|R.C. Bansal|0|||
+242|Electric Power Generation|Mohamed E. El-Hawary|0|||
+243|Electrical Engineering Materials|Dekker|0|||
+244|Material Science|Callister|0|||
+245|Engineering Physics|H.K. Malik|0|||
+246|Modern Physics for Engineers|Stephen T. Thornton|0|||
+247|Quantum Mechanics for Engineers|Leon van Dommelen|0|||
+248|Nanotechnology|Rakesh Rathi|0|||
+249|Advanced Engineering Materials|Kenneth G. Budinski|0|||
+250|Metallurgy for Engineers|E. Paul DeGarmo|0|||
+251|Corrosion Engineering|Mars G. Fontana|0|||
+252|Heat and Mass Transfer|Cengel|0|||
+253|Refrigeration and Air Conditioning|C.P. Arora|0|||
+254|Fluid Mechanics|Frank M. White|0|||
+255|Hydraulics and Fluid Mechanics|P.N. Modi|0|||
+256|Turbomachinery|S.M. Yahya|0|||
+257|Gas Dynamics|E. Rathakrishnan|0|||
+258|Internal Combustion Engines|V. Ganesan|0|||
+259|Automobile Engineering|Kirpal Singh|0|||
+260|Vehicle Dynamics|Rajesh Rajamani|0|||
+261|Machine Drawing|N.D. Bhatt|0|||
+262|Engineering Graphics|P.S. Gill|0|||
+263|CAD/CAM Principles and Applications|P.N. Rao|0|||
+264|AutoCAD for Engineers|Sham Tickoo|0|||
+265|Finite Element Analysis|S.S. Bhavikatti|0|||
+266|Computational Methods for Engineers|Steven Chapra|0|||
+267|Numerical Methods|R.K. Jain|0|||
+268|MATLAB for Engineers|Holly Moore|0|||
+269|Python for Engineers|Ajay Ohri|0|||
+270|C Programming for Engineers|E. Balagurusamy|0|||
+271|Data Structures Using C|Yashavant Kanetkar|0|||
+272|Algorithms|Cormen, Leiserson, Rivest|0|||
+273|Computer Organization|Carl Hamacher|0|||
+274|Operating Systems|Abraham Silberschatz|0|||
+275|Database Systems|Raghu Ramakrishnan|0|||
+276|Software Engineering|Ian Sommerville|0|||
+277|Object-Oriented Programming with C++|E. Balagurusamy|0|||
+278|Java Programming|Herbert Schildt|0|||
+279|Web Technologies|Uttam K. Roy|0|||
+280|Computer Networks|Andrew S. Tanenbaum|0|||
+281|Cyber Security Essentials|Charles J. Brooks|0|||
+282|Information Security|Mark Stamp|0|||
+283|Artificial Intelligence|Stuart Russell|0|||
+284|Machine Learning|Tom M. Mitchell|0|||
+285|Deep Learning|Ian Goodfellow|0|||
+286|Computer Vision|Richard Szeliski|0|||
+287|Data Mining|Jiawei Han|0|||
+288|Big Data Analytics|Seema Acharya|0|||
+289|Cloud Computing|Rajkumar Buyya|0|||
+290|Blockchain Basics|Daniel Drescher|0|||
+291|Internet of Things|Arshdeep Bahga|0|||
+292|Wireless Sensor Networks|Ian F. Akyildiz|0|||
+293|Robotics: Control, Sensing, Vision|Fu, Gonzalez, Lee|0|||
+294|Automation Production Systems|Mikell P. Groover|0|||
+295|Intelligent Systems|Robert J. Schalkoff|0|||
+296|Control System Design|Graham C. Goodwin|0|||
+297|Engineering Optimization|S.S. Rao|0|||
+298|Operations Research|Kanti Swarup|0|||
+299|Decision Modeling|David R. Anderson|0|||
+300|Logistics and Supply Chain Management|Martin Christopher|0|||
+301|Mechanical Vibrations|S.S. Rao|0|||
+302|Dynamics of Structures|Anil K. Chopra|0|||
+303|Theory of Machines|R.S. Khurmi|0|||
+304|Kinematics and Dynamics of Machinery|Charles Wilson|0|||
+305|Strength of Materials|S. Ramamrutham|0|||
+306|Engineering Mechanics|Timoshenko & Young|0|||
+307|Mechanics of Materials|Gere & Timoshenko|0|||
+308|Engineering Thermodynamics|P.K. Nag|0|||
+309|Applied Thermodynamics|Onkar Singh|0|||
+310|Steam and Gas Turbines|R.Yadav|0|||
+311|IC Engines and Gas Turbines|V. Ganeshan|0|||
+312|Fluid Mechanics and Hydraulic Machines|R.K. Bansal|0|||
+313|Hydraulic Machines|Jagadish Lal|0|||
+314|Basic Civil Engineering|Satheesh Gopi|0|||
+315|Surveying Vol I|B.C. Punmia|0|||
+316|Surveying Vol II|B.C. Punmia|0|||
+317|Building Materials|S.K. Duggal|0|||
+318|Building Construction|B.C. Punmia|0|||
+319|Concrete Technology|M.S. Shetty|0|||
+320|Soil Mechanics and Foundations|B.C. Punmia|0|||
+321|Geotechnical Engineering|C.Venkatramaiah|0|||
+322|Structural Analysis|R.C. Hibbeler|0|||
+323|Design of Reinforced Concrete Structures|N.Subramanian|0|||
+324|Limit State Design|Ramchandra|0|||
+325|Structural Steel Design|Jack McCormac|0|||
+326|Transportation Engineering|C.E.G. Justo|0|||
+327|Highway Engineering|Khanna & Justo|0|||
+328|Railway Engineering|S.C. Saxena|0|||
+329|Airport Engineering|S.K. Khanna|0|||
+330|Water Resources Engineering|Larry W. Mays|0|||
+331|Irrigation Engineering|N.N. Basak|0|||
+332|Hydrology and Water Resources Engineering|K. Subramanya|0|||
+333|Environmental Engineering|Peavy, Rowe, Tchobanoglous|0|||
+334|Water Supply Engineering|B.C. Punmia|0|||
+335|Waste Water Engineering|Metcalf & Eddy|0|||
+336|Municipal Solid Waste Management|Tchobanoglous|0|||
+337|Air Pollution Control Engineering|Noel de Nevers|0|||
+338|Remote Sensing and GIS|B.B. Singh|0|||
+339|Geographic Information Systems|Chang Kang-tsung|0|||
+340|Earthquake Engineering|Pankaj Agarwal|0|||
+341|Disaster Management|Harsh K. Gupta|0|||
+342|Construction Management|Jha Kumar Neeraj|0|||
+343|Project Planning and Control|B.C. Punmia|0|||
+344|Contracts and Estimates|B.S. Patil|0|||
+345|Estimating and Costing in Civil Engineering|B.N. Dutta|0|||
+346|Sustainable Construction|Charles J. Kibert|0|||
+347|Green Building Principles|Jerry Yudelson|0|||
+348|Climate Responsive Architecture|Arvind Krishan|0|||
+349|Energy Efficient Buildings|Krarti Moncef|0|||
+350|Architectural Design|Francis D.K. Ching|0|||
+351|Town Planning|G.K. Hiraskar|0|||
+352|Urban Planning|Peter Hall|0|||
+353|Principles of Electronics|V.K. Mehta|0|||
+354|Basic Electronics|Bernard Grob|0|||
+355|Electronic Devices and Circuits|Millman & Halkias|0|||
+356|Electronic Instrumentation|H.S. Kalsi|0|||
+357|Network Analysis and Synthesis|Franklin F. Kuo|0|||
+358|Analog Integrated Circuit Design|David Johns|0|||
+359|Mixed Signal Design|Tony Chan Carusone|0|||
+360|Digital Logic Design|Roth Kinney|0|||
+361|Semiconductor Devices|Ben Streetman|0|||
+362|Power System Analysis|Hadi Saadat|0|||
+363|Transmission and Distribution|J.B. Gupta|0|||
+364|Switching Theory and Logic Design|A. Anand Kumar|0|||
+365|Modern Digital Electronics|R.P. Jain|0|||
+366|Electronic Communication Systems|Kennedy & Davis|0|||
+367|Fiber Optic Communication|Gerd Keiser|0|||
+368|Radar Engineering|G.S. N. Raju|0|||
+369|Biomedical Instrumentation|R.S. Khandpur|0|||
+370|Medical Electronics|J.M. Jacob|0|||
+371|Neural Engineering|Bin He|0|||
+372|BioMEMS|Mauro Ferrari|0|||
+373|Biomechanics|Y.C. Fung|0|||
+374|Biomaterials Science|Buddy Ratner|0|||
+375|Introduction to MEMS|Nadim Maluf|0|||
+376|Fundamentals of Nanotechnology|Gabor L. Hornyak|0|||
+377|Micro and Nano Fabrication|Zhang |0|||
+378|Surface Engineering|J.S. Burnell-Gray|0|||
+379|Materials Science and Engineering|William D. Callister|0|||
+380|Engineering Chemistry|O.G. Palanna|0|||
+381|Organic Chemistry|Morrison & Boyd|0|||
+382|Physical Chemistry|Atkins|0|||
+383|Inorganic Chemistry|J.D. Lee|0|||
+384|Chemical Engineering Thermodynamics|Smith & Van Ness|0|||
+385|Fluid Mechanics for Chemical Engineers|James Welty|0|||
+386|Mass Transfer Operations|Treybal|0|||
+387|Chemical Reaction Engineering|Octave Levenspiel|0|||
+388|Process Systems Analysis and Control|Coughanowr|0|||
+389|Transport Processes and Separation Process Principles|Geankoplis|0|||
+390|Introduction to Chemical Engineering|Badger & Banchero|0|||
+391|Chemical Process Calculations|K.A. Gavhane|0|||
+392|Petroleum Refining Engineering|W.L. Nelson|0|||
+393|Polymer Science and Technology|Joel R. Fried|0|||
+394|Environmental Pollution Control Engineering|C.S. Rao|0|||
+395|Industrial Safety and Hazard Management|Krishnan N.V.|0|||
+396|Process Equipment Design|S.D. Dawande|0|||
+397|Design of Heat Exchangers|Kakac Sadik|0|||
+398|Energy Technology|O.P. Gupta|0|||
+399|Non-Conventional Energy Resources|G.D. Rai|0|||
+400|Fuel Cells and Hydrogen Technology|O'Hayre|0|||
+401|Digital Signal Processing|Alan V. Oppenheim|0|||
+402|Signals and Systems|Simon Haykin|0|||
+403|Control Systems Engineering|Norman S. Nise|0|||
+404|Modern Control Engineering|Ogata Katsuhiko|0|||
+405|Industrial Instrumentation|Donald P. Eckman|0|||
+406|Process Dynamics and Control|Seborg|0|||
+407|Engineering Metrology|R.K. Jain|0|||
+408|Mechanical Measurements|Thomas G. Beckwith|0|||
+409|Instrumentation and Control Systems|W. Bolton|0|||
+410|Sensors and Transducers|D. Patranabis|0|||
+411|Robotics and Control|R.K. Mittal|0|||
+412|Mechatronics|W. Bolton|0|||
+413|Introduction to Mechatronics|Michael B. Histand|0|||
+414|Artificial Intelligence|Stuart Russell|0|||
+415|Machine Learning|Tom M. Mitchell|0|||
+416|Deep Learning|Ian Goodfellow|0|||
+417|Pattern Recognition|S. Theodoridis|0|||
+418|Computer Vision|Richard Szeliski|0|||
+419|Image Processing|Rafael C. Gonzalez|0|||
+420|Speech and Audio Processing|Ben Gold|0|||
+421|Introduction to Algorithms|Cormen et al.|0|||
+422|The C Programming Language|Kernighan & Ritchie|0|||
+423|Data Structures and Algorithms|Alfred V. Aho|0|||
+424|Programming in Python|Mark Lutz|0|||
+425|Object-Oriented Programming with C++|E. Balagurusamy|0|||
+426|Java: The Complete Reference|Herbert Schildt|0|||
+427|Computer Networks|Andrew S. Tanenbaum|0|||
+428|Operating System Concepts|Abraham Silberschatz|0|||
+429|Database System Concepts|Korth & Silberschatz|0|||
+430|Data Mining: Concepts and Techniques|Jiawei Han|0|||
+431|Distributed Systems|George Coulouris|0|||
+432|Cloud Computing|Rajkumar Buyya|0|||
+433|Big Data Analytics|Seema Acharya|0|||
+434|Software Engineering|Ian Sommerville|0|||
+435|Compiler Design|Aho & Ullman|0|||
+436|Web Technologies|Achyut Godbole|0|||
+437|HTML and CSS: Design and Build Websites|Jon Duckett|0|||
+438|JavaScript: The Good Parts|Douglas Crockford|0|||
+439|ReactJS for Beginners|Adam Horton|0|||
+440|Full Stack Development|Chris Northwood|0|||
+441|Blockchain Basics|Daniel Drescher|0|||
+442|Cryptography and Network Security|William Stallings|0|||
+443|Cybersecurity Essentials|Charles J. Brooks|0|||
+444|Ethical Hacking|Patrick Engebretson|0|||
+445|Information Security|Mark Stamp|0|||
+446|Computer Graphics|Donald Hearn|0|||
+447|Game Programming Patterns|Robert Nystrom|0|||
+448|Augmented Reality|Dieter Schmalstieg|0|||
+449|Virtual Reality Technology|Grigore Burdea|0|||
+450|Mobile Computing|Raj Kamal|0|||
+451|Internet of Things|Arshdeep Bahga|0|||
+452|Wireless Communications|Theodore Rappaport|0|||
+453|Microwave Engineering|David M. Pozar|0|||
+454|Antennas and Wave Propagation|K.D. Prasad|0|||
+455|Radar Systems|Merrill I. Skolnik|0|||
+456|Satellite Communications|Timothy Pratt|0|||
+457|Wireless Sensor Networks|C.S. Raghavendra|0|||
+458|Ad Hoc Wireless Networks|C. Siva Ram Murthy|0|||
+459|RF Circuit Design|Christopher Bowick|0|||
+460|Analog and Digital Communication|Simon Haykin|0|||
+461|Mobile and Wireless Communications|William C. Y. Lee|0|||
+462|Digital Communication|John G. Proakis|0|||
+463|Network Security Essentials|William Stallings|0|||
+464|Secure Coding in C and C++|Robert C. Seacord|0|||
+465|Penetration Testing|Georgia Weidman|0|||
+466|Android Programming|Bill Phillips|0|||
+467|iOS Programming|Christian Keur|0|||
+468|Embedded Systems|Raj Kamal|0|||
+469|Real-Time Systems|Jane W.S. Liu|0|||
+470|Advanced Embedded Systems|Shibu K.V.|0|||
+471|Automotive Engineering|Jack Erjavec|0|||
+472|Vehicle Dynamics|Thomas Gillespie|0|||
+473|Electric and Hybrid Vehicles|Iqbal Husain|0|||
+474|Automobile Engineering|Kirpal Singh|0|||
+475|Tractor and Farm Machinery|S.C. Jain|0|||
+476|Irrigation Engineering and Hydraulic Structures|S.K. Garg|0|||
+477|Agricultural Process Engineering|Sahay & Singh|0|||
+478|Dairy Engineering|A.K. Singh|0|||
+479|Food Process Engineering|R. Paul Singh|0|||
+480|Postharvest Technology|Verma & Joshi|0|||
+481|Biochemical Engineering|James E. Bailey|0|||
+482|Enzyme Technology|Chaplin & Bucke|0|||
+483|Industrial Biotechnology|R. Ratledge|0|||
+484|Bioprocess Engineering|Michael L. Shuler|0|||
+485|Bioseparations|D. C. Darling|0|||
+486|Molecular Biotechnology|Glick & Pasternak|0|||
+487|Genetic Engineering|S.N. Jogdand|0|||
+488|Immunology|Kuby|0|||
+489|Microbiology|Prescott|0|||
+490|Environmental Biotechnology|S.N. Jogdand|0|||
+491|Wastewater Engineering|Metcalf & Eddy|0|||
+492|Air Pollution Engineering|Noel de Nevers|0|||
+493|Industrial Pollution Control|Mahajan S.P.|0|||
+494|Environmental Management|Bharucha Erach|0|||
+495|Remote Sensing Applications|Lillesand & Kiefer|0|||
+496|GIS and Environmental Modeling|Keith Clarke|0|||
+497|Geoinformatics|P. Nag|0|||
+498|Urban Hydrology|Viessman & Lewis|0|||
+499|Design of Hydraulic Structures|S.K. Garg|0|||
+500|Dam Engineering|Creager Justin Hinds|0|||
+501|Structural Analysis|R.C. Hibbeler|0|||
+502|Strength of Materials|Ferdinand Beer|0|||
+503|Mechanics of Materials|James M. Gere|0|||
+504|Theory of Structures|S.S. Bhavikatti|0|||
+505|Concrete Technology|M.S. Shetty|0|||
+506|Reinforced Concrete Design|S. Unnikrishna Pillai|0|||
+507|Steel Structures|S. K. Duggal|0|||
+508|Construction Planning and Management|P.K. Joy|0|||
+509|Construction Equipment and Management|P. K. Halder|0|||
+510|Soil Mechanics and Foundation Engineering|B.C. Punmia|0|||
+511|Geotechnical Engineering|V.N.S. Murthy|0|||
+512|Foundation Engineering|Dr. V. Subramanian|0|||
+513|Hydraulics and Hydraulic Machines|R.K. Bansal|0|||
+514|Fluid Mechanics|Frank M. White|0|||
+515|Thermodynamics|P.K. Nag|0|||
+516|Heat Transfer|J.P. Holman|0|||
+517|Engineering Thermodynamics|M. W. Zemansky|0|||
+518|Applied Thermodynamics|Y.V.C. Rao|0|||
+519|Power Plant Engineering|P.K. Nag|0|||
+520|Renewable Energy Engineering|G.D. Rai|0|||
+521|Energy Engineering|D.S. Kumar|0|||
+522|Environmental Engineering|Howard S. Peavy|0|||
+523|Water Supply Engineering|G.S. Birdie|0|||
+524|Sanitary Engineering|C.S. Rao|0|||
+525|Transportation Engineering|L.R. Kadiyali|0|||
+526|Highway Engineering|S.K. Khanna|0|||
+527|Traffic Engineering|L.R. Kadiyali|0|||
+528|Railway Engineering|S.C. Saxena|0|||
+529|Airport Engineering|S.K. Khanna|0|||
+530|Surveying|B.C. Punmia|0|||
+531|Engineering Drawing|N.D. Bhatt|0|||
+532|AutoCAD 2D and 3D|B. Sharma|0|||
+533|Manufacturing Technology|P.N. Rao|0|||
+534|Production Engineering|P.C. Sharma|0|||
+535|Industrial Engineering|O.P. Khanna|0|||
+536|Operations Research|H.A. Taha|0|||
+537|Project Management|K. Nagarajan|0|||
+538|Quality Control and Assurance|S.C. Gupta|0|||
+539|Total Quality Management|D.H. Stamatis|0|||
+540|Supply Chain Management|Sunil Chopra|0|||
+541|Maintenance Engineering|R.K. Jain|0|||
+542|Safety Engineering|L. Fleming|0|||
+543|Vibration Engineering|Singiresu S. Rao|0|||
+544|Machine Design|R.S. Khurmi|0|||
+545|Theory of Machines|S.S. Rattan|0|||
+546|Mechanical Vibrations|S.S. Rao|0|||
+547|Hydraulic Machines|Banga|0|||
+548|Automobile Engineering|Kirpal Singh|0|||
+549|Thermal Engineering|P.K. Nag|0|||
+550|Internal Combustion Engines|V.Ganesan|0|||
+551|Gas Turbines|V.Ganesan|0|||
+552|Refrigeration and Air Conditioning|Arora & Domkundwar|0|||
+553|Industrial Refrigeration|Stoecker|0|||
+554|Power Plant Engineering|P.K. Nag|0|||
+555|Electrical Machines|P.S. Bimbhra|0|||
+556|Power Systems Engineering|I.J. Nagrath|0|||
+557|Electrical Engineering Materials|S. K. Bhattacharya|0|||
+558|Control Systems Engineering|I.J. Nagrath|0|||
+559|Power Electronics|P.S. Bimbhra|0|||
+560|Electrical Circuit Analysis|William H. Hayt|0|||
+561|Digital Electronics|M. Morris Mano|0|||
+562|Analog Electronics|Ramakanth A. Gayakwad|0|||
+563|Microprocessors and Microcontrollers|A.K. Ray|0|||
+564|Embedded Systems|Raj Kamal|0|||
+565|Electrical Machines|Ashfaq Husain|0|||
+566|Renewable Energy Sources|John Twidell|0|||
+567|Power System Analysis|Grainger & Stevenson|0|||
+568|Switchgear and Protection|Sunil S. Rao|0|||
+569|Electrical Power Distribution|S. Rao|0|||
+570|Industrial Drives|Krishnan R.|0|||
+571|Instrumentation Engineering|B.C. Nakra|0|||
+572|Process Control Instrumentation Technology|C.D. Johnson|0|||
+573|Measurement Systems|Ernest O. Doebelin|0|||
+574|Biomedical Instrumentation|Leslie Cromwell|0|||
+575|Communication Systems|Simon Haykin|0|||
+576|Microwave Engineering|David M. Pozar|0|||
+577|Optical Fiber Communications|Gerd Keiser|0|||
+578|Telecommunication Switching Systems|R. S. Kaler|0|||
+579|Satellite Communications|Dennis Roddy|0|||
+580|Mobile Communications|Jochen Schiller|0|||
+581|Computer Networks|Andrew S. Tanenbaum|0|||
+582|Network Security|Charlie Kaufman|0|||
+583|Data Communication and Networking|Behrouz A. Forouzan|0|||
+584|Wireless Networks|Kaveh Pahlavan|0|||
+585|Information Theory|Robert B. Ash|0|||
+586|Signal Processing|Alan V. Oppenheim|0|||
+587|Digital Image Processing|Rafael C. Gonzalez|0|||
+588|Machine Learning|Tom M. Mitchell|0|||
+589|Artificial Intelligence|Russell & Norvig|0|||
+590|Robotics|John J. Craig|0|||
+591|Control Systems Engineering|Norman S. Nise|0|||
+592|Mechatronics|W. Bolton|0|||
+593|Software Engineering|Ian Sommerville|0|||
+594|Programming in C|K.R. Venugopal|0|||
+595|Data Structures Using C|Reema Thareja|0|||
+596|Operating Systems|Galvin|0|||
+597|Compiler Design|Aho & Ullman|0|||
+598|Database Systems|Ramakrishnan|0|||
+599|Cloud Computing|Rajkumar Buyya|0|||
+600|Big Data Analytics|Jiawei Han|0|||
+601|Advanced Engineering Mathematics|Erwin Kreyszig|0|||
+602|Linear Algebra and Its Applications|David C. Lay|0|||
+603|Probability and Statistics for Engineers|Richard L. Scheaffer|0|||
+604|Numerical Methods for Engineers|Steven C. Chapra|0|||
+605|Applied Numerical Methods|C.F. Gerald|0|||
+606|Engineering Economy|Leland Blank|0|||
+607|Operations Research|Frederick S. Hillier|0|||
+608|Engineering Ethics|Charles E. Harris Jr.|0|||
+609|Engineering Mechanics: Statics|J.L. Meriam|0|||
+610|Engineering Mechanics: Dynamics|J.L. Meriam|0|||
+611|Theory of Elasticity|Timoshenko|0|||
+612|Composite Materials: Science and Engineering|Krishan K. Chawla|0|||
+613|Principles of Heat Transfer|Frank Kreith|0|||
+614|Introduction to Fluid Mechanics|Robert W. Fox|0|||
+615|Hydrology and Hydraulic Systems|Ram S. Gupta|0|||
+616|Environmental Chemistry|Stanley E. Manahan|0|||
+617|Soil Mechanics|Donald P. Coduto|0|||
+618|Foundation Engineering: Principles and Practices|Donald P. Coduto|0|||
+619|Geotechnical Engineering: Principles and Practices|Donald P. Coduto|0|||
+620|Structural Steel Design|Jack C. McCormac|0|||
+621|Design of Concrete Structures|Arthur H. Nilson|0|||
+622|Principles of Geotechnical Engineering|Braja M. Das|0|||
+623|Engineering Hydrology|K. Subramanya|0|||
+624|Introduction to Environmental Engineering|Mackenzie L. Davis|0|||
+625|Air Pollution Control Engineering|Noel de Nevers|0|||
+626|Water Resources Engineering|Larry W. Mays|0|||
+627|Transportation Engineering: An Introduction|C.J. Khisty|0|||
+628|Traffic Engineering and Transportation Planning|L.R. Kadiyali|0|||
+629|Railway Engineering|S.C. Saxena|0|||
+630|Urban Transportation Planning|Michael Meyer|0|||
+631|Surveying: Principles and Applications|Barry F. Kavanagh|0|||
+632|Civil Engineering Materials|Shahin H. Nasar|0|||
+633|Engineering Drawing and Design|David A. Madsen|0|||
+634|Machine Drawing|N.D. Bhatt|0|||
+635|Manufacturing Processes|Groover|0|||
+636|Metal Cutting Theory and Practice|G.C. Sen|0|||
+637|Welding Technology|Richard L. Little|0|||
+638|Casting, Welding and Joining of Metals|S.C. Rangwala|0|||
+639|Metrology and Measurements|R.K. Jain|0|||
+640|Mechanical Measurements|Beckwith|0|||
+641|Engineering Metallurgy|Raghavan|0|||
+642|Heat Treatment: Principles and Techniques|Rajendra Kumar|0|||
+643|Automobile Engineering|Kirpal Singh|0|||
+644|Power Plant Engineering|P.K. Nag|0|||
+645|Renewable Energy Resources|John Twidell|0|||
+646|Thermodynamics: An Engineering Approach|Yunus A. Cengel|0|||
+647|Fluid Mechanics|P.K. Kundu|0|||
+648|Hydraulics and Fluid Mechanics|P.N. Modi|0|||
+649|Fundamentals of Thermodynamics|Richard E. Sonntag|0|||
+650|Internal Combustion Engines|V. Ganesan|0|||
+651|Heat and Mass Transfer|J.P. Holman|0|||
+652|Refrigeration and Air Conditioning|C.P. Arora|0|||
+653|Electrical Machines|P.S. Bimbhra|0|||
+654|Power System Engineering|D.P. Kothari|0|||
+655|Control Systems Engineering|Nagrath & Gopal|0|||
+656|Digital Electronics|Morris Mano|0|||
+657|Analog Electronics|R.A. Gayakwad|0|||
+658|Microprocessor Architecture|Barry B. Brey|0|||
+659|Embedded System Design|Peter Marwedel|0|||
+660|Electrical Power Systems|C.L. Wadhwa|0|||
+661|Power Electronics|P.S. Bimbhra|0|||
+662|Communication Systems|Simon Haykin|0|||
+663|Microwave Engineering|David M. Pozar|0|||
+664|Fiber Optic Communications|Gerd Keiser|0|||
+665|Satellite Communications|Dennis Roddy|0|||
+666|Mobile Communications|Jochen Schiller|0|||
+667|Computer Networks|Andrew S. Tanenbaum|0|||
+668|Data Communication and Networking|Behrouz A. Forouzan|0|||
+669|Network Security Essentials|William Stallings|0|||
+670|Signals and Systems|Alan V. Oppenheim|0|||
+671|Digital Signal Processing|Proakis|0|||
+672|Machine Learning|Tom M. Mitchell|0|||
+673|Artificial Intelligence|Russell & Norvig|0|||
+674|Robotics: Control, Sensing, Vision|K.S. Fu|0|||
+675|Mechatronics|W. Bolton|0|||
+676|Software Engineering|Ian Sommerville|0|||
+677|Object Oriented Programming with C++|E. Balagurusamy|0|||
+678|Data Structures and Algorithms|Aho, Hopcroft, Ullman|0|||
+679|Operating Systems Concepts|Silberschatz|0|||
+680|Compiler Design|Aho & Ullman|0|||
+681|Database System Concepts|Silberschatz|0|||
+682|Cloud Computing Concepts|Rajkumar Buyya|0|||
+683|Big Data Analytics|Jiawei Han|0|||
+684|Internet of Things|Rajkumar Buyya|0|||
+685|Cybersecurity and Cyberwar|P.W. Singer|0|||
+686|Digital Image Processing|Gonzalez & Woods|0|||
+687|Computer Vision|Richard Szeliski|0|||
+688|Pattern Recognition and Machine Learning|Bishop|0|||
+689|Deep Learning|Ian Goodfellow|0|||
+690|Data Mining: Concepts and Techniques|Han, Kamber|0|||
+691|Natural Language Processing|Daniel Jurafsky|0|||
+692|Human-Computer Interaction|Alan Dix|0|||
+693|Wireless Sensor Networks|Kazem Sohraby|0|||
+694|Embedded Systems Design|Frank Vahid|0|||
+695|Control Systems Engineering|Norman S. Nise|0|||
+696|Vibration Analysis|Singiresu S. Rao|0|||
+697|Finite Element Analysis|Chandrapatla|0|||
+698|Computational Fluid Dynamics|Jiyuan Tu|0|||
+699|Structural Dynamics|Mario Paz|0|||
+700|Applied Thermodynamics|Y.V.C. Rao|0|||
+701|Advanced Mechanics of Materials|Arthur P. Boresi|0|||
+702|Applied Fluid Mechanics|Robert L. Mott|0|||
+703|Basic Electrical Engineering|D.P. Kothari|0|||
+704|Circuit Theory|A. Chakrabarti|0|||
+705|Control Systems Engineering|I.J. Nagrath|0|||
+706|Data Structures Using C|Reema Thareja|0|||
+707|Design of Machine Elements|V.B. Bhandari|0|||
+708|Digital Logic and Computer Design|M. Morris Mano|0|||
+709|Electrical Machines|P.S. Bimbhra|0|||
+710|Electrical Power Systems|C.L. Wadhwa|0|||
+711|Electronic Devices and Circuits|David A. Bell|0|||
+712|Engineering Drawing|K.L. Narayana|0|||
+713|Engineering Mechanics|R.K. Bansal|0|||
+714|Environmental Engineering|R.K. Sharma|0|||
+715|Finite Element Method|J.N. Reddy|0|||
+716|Fluid Mechanics|P.N. Modi|0|||
+717|Foundations of Structural Analysis|M.A. Bradford|0|||
+718|Gas Dynamics|Ethirajan Rathakrishnan|0|||
+719|Heat and Mass Transfer|P.K. Nag|0|||
+720|Hydraulics|K.Subramanya|0|||
+721|Instrumentation and Control Systems|W.B. Bolton|0|||
+722|Machine Design|Robert L. Norton|0|||
+723|Manufacturing Science|Ghosh & Malik|0|||
+724|Mechanics of Materials|F.P. Beer|0|||
+725|Microprocessors and Interfacing|Douglas V. Hall|0|||
+726|Power Electronics|P.S. Bimbhra|0|||
+727|Power System Engineering|Nagrath & Kothari|0|||
+728|Principles of Communication Systems|Taub & Schilling|0|||
+729|Refrigeration and Air Conditioning|C.P. Arora|0|||
+730|Soil Mechanics|Braja M. Das|0|||
+731|Strength of Materials|R.K. Rajput|0|||
+732|Structural Analysis|C.S. Reddy|0|||
+733|Theory of Machines|S.S. Rattan|0|||
+734|Transportation Engineering|L.R. Kadiyali|0|||
+735|Water Resources Engineering|Larry W. Mays|0|||
+736|Welding Technology|R.S. Parmar|0|||
+737|Applied Thermodynamics|Y.V.C. Rao|0|||
+738|Advanced Heat and Mass Transfer|K. Sathiyamoorthy|0|||
+739|Bioengineering Fundamentals|John D. Enderle|0|||
+740|Ceramic Materials|C. Barry Carter|0|||
+741|Civil Engineering Materials|Shahin H. Nasar|0|||
+742|Computer Aided Design|S. Balasubramanian|0|||
+743|Concrete Technology|A.M. Neville|0|||
+744|Construction Project Management|S. Keoki Sears|0|||
+745|Environmental Science and Engineering|J. Glynn Henry|0|||
+746|Fiber Reinforced Composites|P.K. Mallick|0|||
+747|Fluid Mechanics|Douglas S. Drum|0|||
+748|Geotechnical Engineering|Robert D. Holtz|0|||
+749|Hydrology and Water Resources Engineering|K.C. Patra|0|||
+750|Industrial Engineering and Management|O.P. Khanna|0|||
+751|Introduction to Chemical Engineering Thermodynamics|J.M. Smith|0|||
+752|Introduction to Electrical Engineering|Mulukutla S. Sarma|0|||
+753|Introduction to Fluid Mechanics|Robert W. Fox|0|||
+754|Introduction to Heat Transfer|Frank P. Incropera|0|||
+755|Introduction to Mechanics|William F. Riley|0|||
+756|Introduction to Thermodynamics|Richard E. Sonntag|0|||
+757|Materials Science and Engineering|William D. Callister|0|||
+758|Mechanical Engineering Design|J.E. Shigley|0|||
+759|Mechanics of Fluids|C. Truesdell|0|||
+760|Modern Control Engineering|K. Ogata|0|||
+761|Power Electronics: Converters, Applications and Design|N. Mohan|0|||
+762|Power Plant Engineering|G. D. Rai|0|||
+763|Project Management|Harold Kerzner|0|||
+764|Reinforced Concrete Design|S. Ramamrutham|0|||
+765|Soil Mechanics and Foundations|B.C. Punmia|0|||
+766|Structural Steel Design|R.C. Hibbeler|0|||
+767|Surveying and Levelling|R. Subramanian|0|||
+768|Theory of Elasticity|Timoshenko|0|||
+769|Traffic Engineering|L.R. Kadiyali|0|||
+770|Transportation Engineering|C.J. Khisty|0|||
+771|Water Supply and Sanitary Engineering|G.S. Birdie|0|||
+772|Welding Technology|Richard L. Little|0|||
+773|Applied Thermodynamics|Y.V.C. Rao|0|||
+774|Automobile Engineering|Kirpal Singh|0|||
+775|Building Materials|S.K. Duggal|0|||
+776|Concrete Technology|M.S. Shetty|0|||
+777|Construction Management|P.K. Joy|0|||
+778|Design of Machine Elements|V.B. Bhandari|0|||
+779|Digital Electronics|M. Morris Mano|0|||
+780|Electrical Machines|P.S. Bimbhra|0|||
+781|Engineering Drawing|N.D. Bhatt|0|||
+782|Fluid Mechanics|R.K. Bansal|0|||
+783|Foundations of Structural Analysis|M.A. Bradford|0|||
+784|Heat and Mass Transfer|J.P. Holman|0|||
+785|Hydraulic Machines|Banga|0|||
+786|Instrumentation Engineering|B.C. Nakra|0|||
+787|Machine Design|R.S. Khurmi|0|||
+788|Manufacturing Technology|P.N. Rao|0|||
+789|Mechanics of Materials|James M. Gere|0|||
+790|Power Electronics|P.S. Bimbhra|0|||
+791|Power Systems Engineering|I.J. Nagrath|0|||
+792|Refrigeration and Air Conditioning|Arora & Domkundwar|0|||
+793|Soil Mechanics and Foundation Engineering|B.C. Punmia|0|||
+794|Structural Analysis|R.C. Hibbeler|0|||
+795|Theory of Machines|S.S. Rattan|0|||
+796|Transportation Engineering|L.R. Kadiyali|0|||
+797|Water Supply Engineering|G.S. Birdie|0|||
+798|Wireless Communications|Andrea Goldsmith|0|||
+799|Wireless Sensor Networks|Kazem Sohraby|0|||
+800|Advanced Thermodynamics|Y.V.C. Rao|0|||
